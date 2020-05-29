@@ -1,7 +1,7 @@
 package hmrapi
 
 import (
-	"github.com/RealistikOsu/api/common"
+	"github.com/HakuraSukinoe/NewVarkAPI/common"
 )
 
 type difficulty struct {

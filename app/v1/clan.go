@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 	"strconv"
-	"github.com/RealistikOsu/api/common"
+	"github.com/HakuraSukinoe/NewVarkAPI/common"
 )
 
 type singleClan struct {

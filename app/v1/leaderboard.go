@@ -10,7 +10,7 @@ import (
 	redis "gopkg.in/redis.v5"
 
 	"zxq.co/ripple/ocl"
-	"github.com/RealistikOsu/api/common"
+	"github.com/HakuraSukinoe/NewVarkAPI/common"
 )
 
 type leaderboardUser struct {

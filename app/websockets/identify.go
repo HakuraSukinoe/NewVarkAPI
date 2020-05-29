@@ -8,7 +8,7 @@ import (
 
 	"database/sql"
 
-	"github.com/RealistikOsu/api/common"
+	"github.com/HakuraSukinoe/NewVarkAPI/common"
 )
 
 type websocketUser struct {

@@ -1,7 +1,7 @@
 package v1
 
 import (
-	"github.com/RealistikOsu/api/common"
+	"github.com/HakuraSukinoe/NewVarkAPI/common"
 )
 
 type mostPlayedBeatmap struct {

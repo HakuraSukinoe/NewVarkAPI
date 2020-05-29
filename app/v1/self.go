@@ -3,7 +3,7 @@ package v1
 import (
 	"strings"
 
-	"github.com/RealistikOsu/api/common"
+	"github.com/HakuraSukinoe/NewVarkAPI/common"
 	"zxq.co/ripple/semantic-icons-ugc"
 )
 

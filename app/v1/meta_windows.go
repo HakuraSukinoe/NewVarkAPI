@@ -5,7 +5,7 @@ package v1
 import (
 	"time"
 
-	"github.com/RealistikOsu/api/common"
+	"github.com/HakuraSukinoe/NewVarkAPI/common"
 )
 
 // MetaRestartGET restarts the API with Zero Downtime™.

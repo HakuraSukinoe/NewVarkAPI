@@ -3,7 +3,7 @@ package v1
 import (
 	"database/sql"
 
-	"github.com/RealistikOsu/api/common"
+	"github.com/HakuraSukinoe/NewVarkAPI/common"
 )
 
 type friendData struct {
